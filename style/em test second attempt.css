@@ -1,0 +1,90 @@
+#body{
+    justify-content: center;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5vh;
+    /* background-color: red; */
+
+}
+#spread{
+    display: flex;
+    flex-direction: row;
+    grid-template-columns: 200px 500px 500px 200px;
+    column-gap: 1%;
+}
+#login{
+    display: flex;
+    flex-direction: row;
+    margin-left: -8%;
+
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px;
+    column-gap: 1px;
+}
+#page{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    margin-left: 19%;
+    font-weight: 600;
+
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px ;
+    column-gap: 10%px; 
+
+}
+#firstpg1{
+    justify-content: center;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5vh;
+    background-color: red; 
+
+}
+#spread{
+    display: flex;
+    flex-direction: row;
+    grid-template-columns: 200px 500px 500px 200px; 
+    column-gap: 1%;
+}
+ #login{
+    display: flex;
+    flex-direction: row;
+    margin-left: -8%;
+
+   
+}
+#page{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    margin-left: 19%;
+    font-weight: 600;
+
+}
+#login p{
+    font-size: 35px;
+    font-weight: 600;
+    margin: 5%;
+}
+#page p{
+    font-size: 35px;
+    color: red;
+    font-weight: 600;
+    margin: 5%;
+} 
+/* #login p{
+    font-size: 35px;
+    font-weight: 600;
+    margin: 5%;
+
+
+}
+#page p{
+    font-size: 35px;
+    color: red;
+    font-weight: 600;
+    margin: 5%;
+} */

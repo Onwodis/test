@@ -1,0 +1,10 @@
+.body{
+    justify-content: left;
+}
+.newBg{
+    display: none;
+}
+.newBg2{
+    display: block;
+}
+
